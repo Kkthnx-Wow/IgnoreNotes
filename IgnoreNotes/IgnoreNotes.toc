@@ -1,0 +1,5 @@
+## Name: IgnoreNotes
+## Title: |cff669DFFIgnoreNotes|r
+## Notes: Empty toc for Curseforge
+## Author: Josh "Kkthnx" Russell
+## Version: 1.0.0
